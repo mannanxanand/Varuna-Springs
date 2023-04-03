@@ -69,5 +69,3 @@ var chart = ui.Chart.image.series({
 
 // Display the chart
 print(chart);
-
-//WOHOO!
